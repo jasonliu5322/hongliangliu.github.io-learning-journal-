@@ -1,14 +1,11 @@
 ## Welcome to My GitHub Pages
 
-I am an international student chasing CS master degree in CSUEB which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
+I am an international student chasing CS master degree in **CSUEB** which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
-You can use the [editor on GitHub](https://github.com/jasonliu5322/hongliangliu.github.io-learning-journal-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About My Major
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The *Computer Science Department* is a large and flourishing department, offering a variety of courses at a variety of times. The department consists of diverse full-time faculty, with a wide range of backgrounds and interests. The department offers Bachelor's and Master's degrees in Computer Science, as well as a Computer Science minor. The department strives to provide a quality education to a diverse student community, and serves as one of the larger majors on campus.
+***If you are interested in this major, you can read more about [admission requirment]***(https://www.csueastbay.edu/cs/degrees-programs/csms.html). 
 
 ```markdown
 Syntax highlighted code block
