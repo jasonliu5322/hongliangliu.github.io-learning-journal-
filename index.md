@@ -2,7 +2,7 @@
 
 I am an international student chasing CS master degree in **CSUEB** which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of CSUEB](https://images.app.goo.gl/zngtc6pQbqEHJy6m8)
 
 ### About My Major
 
