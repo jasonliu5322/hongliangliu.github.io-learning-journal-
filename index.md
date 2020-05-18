@@ -2,7 +2,7 @@
 
 I am an international student chasing CS master degree in **CSUEB** which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
-![Image of CSUEB](https://www.csueastbay.edu/about/files/docs/hayward-hills-campus-map.pdf)
+![Image of CSUEB](https://octodex.github.com/hulatocat/)
 
 ### About My Major
 
