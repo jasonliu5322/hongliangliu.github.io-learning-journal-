@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+
+I am an international student chasing CS master degree in CSUEB which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
 You can use the [editor on GitHub](https://github.com/jasonliu5322/hongliangliu.github.io-learning-journal-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
