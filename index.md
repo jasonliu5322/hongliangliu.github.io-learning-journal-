@@ -27,8 +27,8 @@ The *Computer Science Department* is a large and flourishing department, offerin
   - CS 621 - Operating Systems Design 
   - CS 651 - Web Systems 
   - CS 671 - Cybersecurity 
-  - Computer Science, M.S.: Computer Science Concentration 
   - CS 693 - Capstone Project 
+  - Computer Science, M.S.: Computer Science Concentration 
   
 ### My Skills
   Skills below that I have learned in previous one years:
