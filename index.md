@@ -9,7 +9,7 @@ The *Computer Science Department* is a large and flourishing department, offerin
 
 ### My Courses
 
-- prerequisite class:
+- **prerequisite classes:**
   - CS 101 Computer Science I                               
   - CS 201 Computer Science II                                         
   - CS 211 Mathematical Foundations of Computer Science 
@@ -20,3 +20,13 @@ The *Computer Science Department* is a large and flourishing department, offerin
   - CS 411 Automata and Computation
   - CS 413 Analysis of Algorithms                                    
   - CS 421 Operating Systems 
+  
+- **master class:**
+  - CS 601 - Advanced Algorithms 
+  - CS 611 - Theory of Computation 
+  - CS 621 - Operating Systems Design 
+  - CS 651 - Web Systems 
+  - CS 671 - Cybersecurity 
+  - Computer Science, M.S.: Computer Science Concentration 
+  - CS 693 - Capstone Project 
+
