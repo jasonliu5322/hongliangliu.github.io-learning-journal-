@@ -38,4 +38,4 @@ The *Computer Science Department* is a large and flourishing department, offerin
   3. Python
   4. SQL
   ```
-### You Can Click [Here]() to find My Project
+### You Can Click [Here](https://github.com/jasonliu5322/learning-journal) to find My Project.
