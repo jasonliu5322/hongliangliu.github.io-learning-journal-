@@ -2,11 +2,21 @@
 
 I am an international student chasing CS master degree in **CSUEB** which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
-![Image of CSUEB](https://github.com/LuckSiege/PictureSelector/blob/master/image/picture_num_style_new_2.jpg)
-
 ### About My Major
 
 The *Computer Science Department* is a large and flourishing department, offering a variety of courses at a variety of times. The department consists of diverse full-time faculty, with a wide range of backgrounds and interests. The department offers Bachelor's and Master's degrees in Computer Science, as well as a Computer Science minor. The department strives to provide a quality education to a diverse student community, and serves as one of the larger majors on campus.
 ***If you are interested in this major, you can read more about [admission requirment](https://www.csueastbay.edu/cs/degrees-programs/csms.html)***. 
 
+### My Courses
 
+- prerequisite class:
+  - CS 101 Computer Science I                               
+  - CS 201 Computer Science II                                         
+  - CS 211 Mathematical Foundations of Computer Science 
+  - CS 221 Computer Organization and Assembly Programming 
+  - CS 301 Data Structures and Algorithms                   
+  - CS 311 Programming Language Concepts                                 
+  - CS 321 Computer Architecture
+  - CS 411 Automata and Computation
+  - CS 413 Analysis of Algorithms                                    
+  - CS 421 Operating Systems 
