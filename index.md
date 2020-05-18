@@ -2,6 +2,8 @@
 
 I am an international student chasing CS master degree in **CSUEB** which locate at Bay Area in CA. You can find more information about this unversity through this [link](https://www.csueastbay.edu/).
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### About My Major
 
 The *Computer Science Department* is a large and flourishing department, offering a variety of courses at a variety of times. The department consists of diverse full-time faculty, with a wide range of backgrounds and interests. The department offers Bachelor's and Master's degrees in Computer Science, as well as a Computer Science minor. The department strives to provide a quality education to a diverse student community, and serves as one of the larger majors on campus.
